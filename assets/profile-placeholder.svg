@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 720" role="img" aria-labelledby="title desc">
+  <title id="title">Profile photo placeholder</title>
+  <desc id="desc">A placeholder showing the initials CJ.</desc>
+  <rect width="600" height="720" fill="#17212b"/>
+  <circle cx="300" cy="250" r="105" fill="#a8e6cf" opacity=".85"/>
+  <path d="M125 625c18-145 87-215 175-215s157 70 175 215" fill="#a8e6cf" opacity=".85"/>
+  <text x="300" y="680" fill="#0b0f14" font-family="Arial, sans-serif" font-size="42" font-weight="700" text-anchor="middle">CJ</text>
+</svg>
